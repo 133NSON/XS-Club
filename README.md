@@ -4,7 +4,7 @@
 
 题目附件在 `release` 目录
 
-# XS Club  中下
+# XS Club
 
 Title:
 XS Club
